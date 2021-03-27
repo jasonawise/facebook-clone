@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unresolved */
-import React from 'react'
-import Nav from './components/Nav'
+import React from "react";
+import Nav from "./components/Nav";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <Nav />
       <h2>Hello World</h2>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
